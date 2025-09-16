@@ -23,6 +23,8 @@
 
 ---
 
+---
+
 ### 🛠️ Tech Stack
 
 #### 🎨 Frontend
@@ -62,6 +64,9 @@
 #### 🤖 AI Development
 [![AI Developer](https://img.shields.io/badge/AI_Developer-0A66C2?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)  
 [![AI Voice Trainer](https://img.shields.io/badge/AI_Voice_Trainer-FF4081?style=for-the-badge&logo=googleassistant&logoColor=white)](https://cloud.google.com/text-to-speech)  
+
+---
+
 
 ---
 
