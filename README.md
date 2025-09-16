@@ -112,16 +112,6 @@
 
 ---
 
-### 🎧 Spotify (Now Playing)
-[![Spotify](https://novatorem-asad.vercel.app/api/spotify)](https://open.spotify.com/user/)
-
----
-
-### 🐍 Contribution Snake
-![snake gif](https://github.com/AsadArmanKhan/AsadArmanKhan/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🎯 Competitive Coding
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/) 
