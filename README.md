@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 - 🌍 Based in Jaipur, India  
-- 🔭 Currently working as a **MERN Stack Developer** at **Alignerr** and **Outlier** as a Freelancer 
+- 🔭 Currently working as a **MERN Stack Developer** at **Alignerr** and **Outlier** as a Freelancer  
 - 💡 Passionate about building scalable web apps with modern technologies  
 - 🌱 Continuously learning **Next.js, Three.js, and advanced MERN practices**  
 - 🎯 Goal: Deliver clean, user-friendly, and performance-optimized applications  
@@ -14,12 +14,11 @@
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-arman-khan-a62b5134b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AsadArmanKhan)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://wscubetech.com/portfolio/web-development/asad-khan?u=qDqQQDScNl3N1o4H7vW_sw==)  
-✉️ **asadarmankhanworkmail@gmail.com**  
 
----
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-arman-khan-a62b5134b/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsadArmanKhan) | [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bboy._.asad/) | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://wscubetech.com/portfolio/web-development/asad-khan?u=qDqQQDScNl3N1o4H7vW_sw==) |
+|---|---|---|---|
+
+📩 **asadarmankhanworkmail@gmail.com**
 
 ---
 
@@ -42,9 +41,14 @@
 
 #### ⚙️ Backend
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) 
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+
+---
+
+#### 🗄️ Database
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
-[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
+[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/) 
+[![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/cloud/atlas)
 
 ---
 
@@ -59,15 +63,19 @@
 
 ---
 
+#### ☁️ Deployment & Cloud
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) 
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/) 
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)  
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
+
+---
+
 #### 🤖 AI Development
 [![AI Developer](https://img.shields.io/badge/AI_Developer-0A66C2?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/) 
 [![AI Voice Trainer](https://img.shields.io/badge/AI_Voice_Trainer-FF4081?style=for-the-badge&logo=googleassistant&logoColor=white)](https://cloud.google.com/text-to-speech)  
 
 ---
-
-
----
-
 
 ### 📂 Key Projects
 - **UOMO E-commerce Website**  
@@ -85,7 +93,6 @@
 
 ### 📊 GitHub Stats
 ![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsadArmanKhan&show_icons=true&theme=radical)  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadArmanKhan&layout=compact&theme=radical)  
 
 ---
@@ -105,6 +112,39 @@
 
 ---
 
+### 🎧 Spotify (Now Playing)
+[![Spotify](https://novatorem-asad.vercel.app/api/spotify)](https://open.spotify.com/user/)
+
+---
+
+### 🐍 Contribution Snake
+![snake gif](https://github.com/AsadArmanKhan/AsadArmanKhan/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🎯 Competitive Coding
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+
+---
+
+### 📚 Latest Blog Posts
+- [Building an E-commerce Platform with MERN](#)  
+- [Using Three.js for 3D Web Apps](#)  
+
+---
+
+### 📅 WakaTime Coding Activity
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical)
+
+---
+
+### 🌍 Profile Visitors
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AsadArmanKhan)
+
+---
+
 ### 🎓 Education
 **B.Tech in Software Engineering** – JECRC (Flash Program)  
 📅 2021 - 2025  
@@ -117,4 +157,4 @@
 
 ---
 
-✨ *“Passionate Full-Stack Web Developer & Problem Solver – building scalable, modern web solutions with MERN and Next.js.”*  
+✨ *“Passionate Full-Stack Web Developer & Problem Solver – building scalable, modern web solutions with MERN and Next.js.”*      so what is this
