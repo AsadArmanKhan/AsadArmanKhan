@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 - 🌍 Based in Jaipur, India  
-- 🔭 Currently working as a **MERN Stack Developer** at **Alignerr** and **Outlier**  
+- 🔭 Currently working as a **MERN Stack Developer** at **Alignerr** and **Outlier** as a Freelancer 
 - 💡 Passionate about building scalable web apps with modern technologies  
 - 🌱 Continuously learning **Next.js, Three.js, and advanced MERN practices**  
 - 🎯 Goal: Deliver clean, user-friendly, and performance-optimized applications  
@@ -22,9 +22,9 @@
 ---
 
 ### 🛠️ Tech Stack
-**Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS  
+**Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS, Bootstrap 
 **Backend:** Node.js, Express.js, MongoDB, Mongoose  
-**Dev Tools:** Git, GitHub, VS Code, Postman  
+**Dev Tools:** Git, GitHub, VS Code, Postman, ThunderClint 
 **Specialized:** Three.js, Redux, Material-UI, Next.js  
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
