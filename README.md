@@ -21,13 +21,8 @@
 
 ---
 
----
-
----
-
 ### 🛠️ Tech Stack
 
-#### 🎨 Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
@@ -39,18 +34,10 @@
 [![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)  
 [![React Toastify](https://img.shields.io/badge/React_Toastify-FF6F61?style=for-the-badge&logo=react&logoColor=white)](https://fkhadra.github.io/react-toastify/introduction)  
 [![Sonner](https://img.shields.io/badge/Sonner-FFB703?style=for-the-badge&logo=react&logoColor=black)](https://sonner.emilkowal.ski/)
-
----
-
-#### ⚙️ Backend
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)  
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
 [![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
-
----
-
-#### 🛠️ Dev Tools
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)  
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
@@ -58,10 +45,6 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)  
 [![Thunder Client](https://img.shields.io/badge/Thunder_Client-3DDC84?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://www.thunderclient.com/)  
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
-
----
-
-#### 🤖 AI Development
 [![AI Developer](https://img.shields.io/badge/AI_Developer-0A66C2?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)  
 [![AI Voice Trainer](https://img.shields.io/badge/AI_Voice_Trainer-FF4081?style=for-the-badge&logo=googleassistant&logoColor=white)](https://cloud.google.com/text-to-speech)  
 
