@@ -1,6 +1,6 @@
 # Hi 👋 I'm Asad Arman Khan
 
-💻 Full-Stack Web Developer | MERN Stack | Next.js | Tailwind CSS  
+💻 Full-Stack Web Developer | MERN Stack 
 
 ---
 
@@ -122,11 +122,6 @@
 ### 📚 Latest Blog Posts
 - [Building an E-commerce Platform with MERN](#)  
 - [Using Three.js for 3D Web Apps](#)  
-
----
-
-### 📅 WakaTime Coding Activity
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical)
 
 ---
 
